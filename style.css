@@ -1,0 +1,28 @@
+button {
+	height: 60px;
+	width: 100px;
+	background-color: silver;
+	font-size: 50px;
+	margin: 0px 50px;
+}
+
+.counters {
+	max-width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#counter {
+	margin: 0 auto;
+	margin-bottom: 50px;
+	font-size: 30px;
+	border: 1px solid black;
+	box-shadow: 5px 5px;
+	height: 60px;
+	width: 440px;
+}
+
+p {
+	font-size: 30px;
+	margin-bottom: 5px;
+}
